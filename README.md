@@ -45,12 +45,12 @@ The Movies Library App is a web application built with React for the frontend an
 
 1. **Installation**
    - Clone the repository: `git clone <repository-url>`
-   - Navigate to the project directory: `cd movies-library-app`
+   - Navigate to the project directory: `cd Movies-Library-APP`
    - Install dependencies: `npm install`
 
 2. **Running the Application**
    - Open another terminal.
-   - Navigate to the frontend directory: `cd movies-library-app`
+   - Navigate to the frontend directory: `cd Movies-Library-APP`
    - Install dependencies: `npm install`
    - Start the frontend server: `npm start`
    - Open your browser and go to `http://localhost:3000`
@@ -67,4 +67,4 @@ The Movies Library App is a web application built with React for the frontend an
    - The server will run on `http://localhost:8080`
 
 ## Credits
-This project was created by [NoahAkkad] and [Contributors], inspired by [Source of Inspiration].
+This project was created by [NoahAkkad].
