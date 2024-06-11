@@ -65,6 +65,12 @@ The Movies Library App is a web application built with React for the frontend an
 2. **Running the Server**
    - Start the backend server: `npm start`
    - The server will run on `http://localhost:8080`
+  
+3. **API Endpoints**
+   - `/api/movies`: GET (Fetch all movies), POST (Add a new movie)
+   - `/api/movies/:id`: GET (Fetch movie by ID), DELETE (Delete movie by ID)
+   - `/api/auth/register`: POST (User registration)
+   - `/api/auth/login`: POST (User login)
 
 ## Credits
 This project was created by [NoahAkkad].
